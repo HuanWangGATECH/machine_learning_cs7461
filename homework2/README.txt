@@ -4,6 +4,9 @@ homework2
 
 Randomized Optimization
 
+Go to to following repo to download codes  
+
+https://github.com/HuanWangGATECH/machine_learning_cs7461/tree/main/homework2
 
 Use jupyter notebook to run codes included 
 
